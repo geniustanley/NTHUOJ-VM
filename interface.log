@@ -1,0 +1,823 @@
+ 
+[Thu Nov 19 7:10:32 2015] ==========interface start==========
+[Thu Nov 19 7:10:32 2015] Receiving information from dispatcher...
+[Thu Nov 19 7:10:32 2015] No sid
+[Thu Nov 19 7:10:32 2015] No pid
+[Thu Nov 19 7:10:32 2015] No tid
+[Thu Nov 19 7:10:32 2015] No codeLanType
+[Thu Nov 19 7:10:32 2015] No timeLimit
+[Thu Nov 19 7:10:32 2015] No memoryLimit
+[Thu Nov 19 7:10:32 2015] No judgeType
+[Thu Nov 19 7:10:32 2015] No judgeLanType
+[Thu Nov 19 7:10:32 2015] No machineName
+[Thu Nov 19 7:13:37 2015] ==========interface start==========
+[Thu Nov 19 7:13:37 2015] Receiving information from dispatcher...
+[Thu Nov 19 7:19:09 2015] ==========interface start==========
+[Thu Nov 19 7:19:09 2015] Receiving information from dispatcher...
+[Thu Nov 19 7:19:09 2015] Recvive information end
+[Thu Nov 19 7:19:09 2015] Moving file to judge folder...
+[Thu Nov 19 7:19:09 2015] Moving source code...
+[Thu Nov 19 7:19:09 2015] Coping 1.c to code.c
+[Thu Nov 19 7:19:09 2015] File 1.c does not exist.
+[Thu Nov 19 7:19:09 2015] Moving testcases...
+[Thu Nov 19 7:19:09 2015] Coping 1.in to testdata/in1
+[Thu Nov 19 7:19:09 2015] File 1.in does not exist.
+[Thu Nov 19 7:19:09 2015] Coping 1.out to testdata/out1
+[Thu Nov 19 7:19:09 2015] File 1.out does not exist.
+[Thu Nov 19 7:19:09 2015] Coping 2.in to testdata/in2
+[Thu Nov 19 7:19:09 2015] File 2.in does not exist.
+[Thu Nov 19 7:19:09 2015] Coping 2.out to testdata/out2
+[Thu Nov 19 7:19:09 2015] File 2.out does not exist.
+[Thu Nov 19 7:29:04 2015] ==========interface start==========
+[Thu Nov 19 7:29:04 2015] Receiving information from dispatcher...
+[Thu Nov 19 7:29:04 2015] Recvive information end
+[Thu Nov 19 7:29:04 2015] Moving file to judge folder...
+[Thu Nov 19 7:29:04 2015] Moving source code...
+[Thu Nov 19 7:29:05 2015] Coping /var/nthuoj/source1.c to code.c
+[Thu Nov 19 7:29:05 2015] File /var/nthuoj/source1.c does not exist.
+[Thu Nov 19 7:29:05 2015] Moving testcases...
+[Thu Nov 19 7:29:05 2015] Coping /var/nthuoj/testdata1.in to testdata/in1
+[Thu Nov 19 7:29:05 2015] File /var/nthuoj/testdata1.in does not exist.
+[Thu Nov 19 7:29:05 2015] Coping /var/nthuoj/testdata1.out to testdata/out1
+[Thu Nov 19 7:29:05 2015] File /var/nthuoj/testdata1.out does not exist.
+[Thu Nov 19 7:29:05 2015] Coping /var/nthuoj/testdata2.in to testdata/in2
+[Thu Nov 19 7:29:05 2015] File /var/nthuoj/testdata2.in does not exist.
+[Thu Nov 19 7:29:05 2015] Coping /var/nthuoj/testdata2.out to testdata/out2
+[Thu Nov 19 7:29:05 2015] File /var/nthuoj/testdata2.out does not exist.
+[Thu Nov 19 7:30:09 2015] ==========interface start==========
+[Thu Nov 19 7:30:09 2015] Receiving information from dispatcher...
+[Thu Nov 19 7:30:09 2015] Recvive information end
+[Thu Nov 19 7:30:09 2015] Moving file to judge folder...
+[Thu Nov 19 7:30:09 2015] Moving source code...
+[Thu Nov 19 7:30:09 2015] Coping /var/nthuoj/source/1.c to code.c
+[Thu Nov 19 7:30:09 2015] Copy success
+[Thu Nov 19 7:30:09 2015] Moving testcases...
+[Thu Nov 19 7:30:09 2015] Coping /var/nthuoj/testdata/1.in to testdata/in1
+[Thu Nov 19 7:30:09 2015] Copy testdata/in1 failed.
+[Thu Nov 19 7:30:09 2015] Coping /var/nthuoj/testdata/1.out to testdata/out1
+[Thu Nov 19 7:30:09 2015] Copy testdata/out1 failed.
+[Thu Nov 19 7:30:09 2015] Coping /var/nthuoj/testdata/2.in to testdata/in2
+[Thu Nov 19 7:30:09 2015] Copy testdata/in2 failed.
+[Thu Nov 19 7:30:09 2015] Coping /var/nthuoj/testdata/2.out to testdata/out2
+[Thu Nov 19 7:30:09 2015] Copy testdata/out2 failed.
+[Thu Nov 19 7:33:11 2015] ==========interface start==========
+[Thu Nov 19 7:33:11 2015] Receiving information from dispatcher...
+[Thu Nov 19 7:33:11 2015] Recvive information end
+[Thu Nov 19 7:33:11 2015] Moving file to judge folder...
+[Thu Nov 19 7:33:11 2015] Moving source code...
+[Thu Nov 19 7:33:11 2015] Coping /var/nthuoj/source/1.c to code.c
+[Thu Nov 19 7:33:11 2015] Copy success
+[Thu Nov 19 7:33:11 2015] Moving testcases...
+[Thu Nov 19 7:33:11 2015] Coping /var/nthuoj/testdata/1.in to testdata/in1
+[Thu Nov 19 7:33:11 2015] Copy testdata/in1 failed.
+[Thu Nov 19 7:33:11 2015] Coping /var/nthuoj/testdata/1.out to testdata/out1
+[Thu Nov 19 7:33:11 2015] Copy testdata/out1 failed.
+[Thu Nov 19 7:33:11 2015] Coping /var/nthuoj/testdata/2.in to testdata/in2
+[Thu Nov 19 7:33:11 2015] Copy testdata/in2 failed.
+[Thu Nov 19 7:33:11 2015] Coping /var/nthuoj/testdata/2.out to testdata/out2
+[Thu Nov 19 7:33:11 2015] Copy testdata/out2 failed.
+[Thu Nov 19 7:34:29 2015] ==========interface start==========
+[Thu Nov 19 7:34:29 2015] Receiving information from dispatcher...
+[Thu Nov 19 7:34:29 2015] Recvive information end
+[Thu Nov 19 7:34:29 2015] Moving file to judge folder...
+[Thu Nov 19 7:34:29 2015] Moving source code...
+[Thu Nov 19 7:34:29 2015] Coping /var/nthuoj/source/1.c to code.c
+[Thu Nov 19 7:34:29 2015] Copy success
+[Thu Nov 19 7:34:29 2015] Moving testcases...
+[Thu Nov 19 7:34:29 2015] Coping /var/nthuoj/testdata/1.in to testdata/in1
+[Thu Nov 19 7:34:29 2015] Copy testdata/in1 failed.
+[Thu Nov 19 7:34:29 2015] Coping /var/nthuoj/testdata/1.out to testdata/out1
+[Thu Nov 19 7:34:29 2015] Copy testdata/out1 failed.
+[Thu Nov 19 7:34:29 2015] Coping /var/nthuoj/testdata/2.in to testdata/in2
+[Thu Nov 19 7:34:29 2015] Copy testdata/in2 failed.
+[Thu Nov 19 7:34:29 2015] Coping /var/nthuoj/testdata/2.out to testdata/out2
+[Thu Nov 19 7:34:29 2015] Copy testdata/out2 failed.
+[Thu Nov 19 7:35:06 2015] ==========interface start==========
+[Thu Nov 19 7:35:06 2015] Receiving information from dispatcher...
+[Thu Nov 19 7:35:06 2015] Recvive information end
+[Thu Nov 19 7:35:06 2015] Moving file to judge folder...
+[Thu Nov 19 7:35:06 2015] Moving source code...
+[Thu Nov 19 7:35:06 2015] Coping /var/nthuoj/source/1.c to code.c
+[Thu Nov 19 7:35:06 2015] Copy success
+[Thu Nov 19 7:35:06 2015] Moving testcases...
+[Thu Nov 19 7:35:06 2015] Coping /var/nthuoj/testdata/1.in to testdata/in1
+[Thu Nov 19 7:35:06 2015] Copy testdata/in1 failed.
+[Thu Nov 19 7:35:06 2015] Coping /var/nthuoj/testdata/1.out to testdata/out1
+[Thu Nov 19 7:35:06 2015] Copy testdata/out1 failed.
+[Thu Nov 19 7:35:06 2015] Coping /var/nthuoj/testdata/2.in to testdata/in2
+[Thu Nov 19 7:35:06 2015] Copy testdata/in2 failed.
+[Thu Nov 19 7:35:06 2015] Coping /var/nthuoj/testdata/2.out to testdata/out2
+[Thu Nov 19 7:35:06 2015] Copy testdata/out2 failed.
+[Thu Nov 19 7:36:22 2015] ==========interface start==========
+[Thu Nov 19 7:36:22 2015] Receiving information from dispatcher...
+[Thu Nov 19 7:36:22 2015] Recvive information end
+[Thu Nov 19 7:36:22 2015] Moving file to judge folder...
+[Thu Nov 19 7:36:22 2015] Moving source code...
+[Thu Nov 19 7:36:22 2015] Coping /var/nthuoj/source/1.c to code.c
+[Thu Nov 19 7:36:22 2015] Copy success
+[Thu Nov 19 7:36:22 2015] Moving testcases...
+[Thu Nov 19 7:36:22 2015] Coping /var/nthuoj/testdata/1.in to testdata/in1
+[Thu Nov 19 7:36:22 2015] Copy testdata/in1 failed.
+[Thu Nov 19 7:36:22 2015] Coping /var/nthuoj/testdata/1.out to testdata/out1
+[Thu Nov 19 7:36:22 2015] Copy testdata/out1 failed.
+[Thu Nov 19 7:36:22 2015] Coping /var/nthuoj/testdata/2.in to testdata/in2
+[Thu Nov 19 7:36:22 2015] Copy testdata/in2 failed.
+[Thu Nov 19 7:36:22 2015] Coping /var/nthuoj/testdata/2.out to testdata/out2
+[Thu Nov 19 7:36:22 2015] Copy testdata/out2 failed.
+[Thu Nov 19 7:37:01 2015] ==========interface start==========
+[Thu Nov 19 7:37:01 2015] Receiving information from dispatcher...
+[Thu Nov 19 7:37:01 2015] Recvive information end
+[Thu Nov 19 7:37:01 2015] Moving file to judge folder...
+[Thu Nov 19 7:37:01 2015] Moving source code...
+[Thu Nov 19 7:37:01 2015] Coping /var/nthuoj/source/1.c to /tmp/judgeFile/code.c
+[Thu Nov 19 7:37:01 2015] Copy success
+[Thu Nov 19 7:37:01 2015] Moving testcases...
+[Thu Nov 19 7:37:01 2015] Coping /var/nthuoj/testdata/1.in to /tmp/judgeFile/testdata/in1
+[Thu Nov 19 7:37:01 2015] Copy success
+[Thu Nov 19 7:37:01 2015] Coping /var/nthuoj/testdata/1.out to /tmp/judgeFile/testdata/out1
+[Thu Nov 19 7:37:01 2015] Copy success
+[Thu Nov 19 7:37:01 2015] Coping /var/nthuoj/testdata/2.in to /tmp/judgeFile/testdata/in2
+[Thu Nov 19 7:37:01 2015] Copy success
+[Thu Nov 19 7:37:01 2015] Coping /var/nthuoj/testdata/2.out to /tmp/judgeFile/testdata/out2
+[Thu Nov 19 7:37:01 2015] Copy success
+[Thu Nov 19 7:37:01 2015] Move files end
+[Thu Nov 19 8:28:36 2015] ==========interface start==========
+[Thu Nov 19 8:28:36 2015] Receiving information from dispatcher...
+[Thu Nov 19 8:28:36 2015] Recvive information end
+[Thu Nov 19 8:28:36 2015] Moving file to judge folder...
+[Thu Nov 19 8:28:36 2015] Moving source code...
+[Thu Nov 19 8:28:36 2015] Coping /var/nthuoj/source/1.c to /tmp/judgeFile/code.c
+[Thu Nov 19 8:28:36 2015] Copy success
+[Thu Nov 19 8:28:36 2015] Moving testcases...
+[Thu Nov 19 8:28:36 2015] Coping /var/nthuoj/testdata/1.in to /tmp/judgeFile/testdata/in1
+[Thu Nov 19 8:28:36 2015] Copy success
+[Thu Nov 19 8:28:36 2015] Coping /var/nthuoj/testdata/1.out to /tmp/judgeFile/testdata/out1
+[Thu Nov 19 8:28:36 2015] Copy success
+[Thu Nov 19 8:28:36 2015] Coping /var/nthuoj/testdata/2.in to /tmp/judgeFile/testdata/in2
+[Thu Nov 19 8:28:36 2015] Copy success
+[Thu Nov 19 8:28:36 2015] Coping /var/nthuoj/testdata/2.out to /tmp/judgeFile/testdata/out2
+[Thu Nov 19 8:28:36 2015] Copy success
+[Thu Nov 19 8:28:36 2015] Move files end
+[Thu Nov 19 8:28:36 2015] Calling judge...
+[Thu Nov 19 8:33:00 2015] ==========interface start==========
+[Thu Nov 19 8:33:00 2015] Receiving information from dispatcher...
+[Thu Nov 19 8:33:00 2015] Recvive information end
+[Thu Nov 19 8:33:00 2015] Moving file to judge folder...
+[Thu Nov 19 8:33:00 2015] Moving source code...
+[Thu Nov 19 8:33:00 2015] Coping /var/nthuoj/source/1.c to /tmp/judgeFile/code.c
+[Thu Nov 19 8:33:00 2015] Copy success
+[Thu Nov 19 8:33:00 2015] Moving testcases...
+[Thu Nov 19 8:33:00 2015] Coping /var/nthuoj/testdata/1.in to /tmp/judgeFile/testdata/in1
+[Thu Nov 19 8:33:00 2015] Copy success
+[Thu Nov 19 8:33:01 2015] Coping /var/nthuoj/testdata/1.out to /tmp/judgeFile/testdata/out1
+[Thu Nov 19 8:33:01 2015] Copy success
+[Thu Nov 19 8:33:01 2015] Coping /var/nthuoj/testdata/2.in to /tmp/judgeFile/testdata/in2
+[Thu Nov 19 8:33:01 2015] Copy success
+[Thu Nov 19 8:33:01 2015] Coping /var/nthuoj/testdata/2.out to /tmp/judgeFile/testdata/out2
+[Thu Nov 19 8:33:01 2015] Copy success
+[Thu Nov 19 8:33:01 2015] Move files end
+[Thu Nov 19 8:33:01 2015] Calling judge...
+[Thu Nov 19 8:33:01 2015] Call judge end
+[Thu Nov 19 8:33:29 2015] ==========interface start==========
+[Thu Nov 19 8:33:29 2015] Receiving information from dispatcher...
+[Thu Nov 19 8:33:29 2015] Recvive information end
+[Thu Nov 19 8:33:29 2015] Moving file to judge folder...
+[Thu Nov 19 8:33:29 2015] Moving source code...
+[Thu Nov 19 8:33:29 2015] Coping /var/nthuoj/source/1.c to /tmp/judgeFile/code.c
+[Thu Nov 19 8:33:29 2015] Copy success
+[Thu Nov 19 8:33:29 2015] Moving testcases...
+[Thu Nov 19 8:33:29 2015] Coping /var/nthuoj/testdata/1.in to /tmp/judgeFile/testdata/in1
+[Thu Nov 19 8:33:29 2015] Copy success
+[Thu Nov 19 8:33:29 2015] Coping /var/nthuoj/testdata/1.out to /tmp/judgeFile/testdata/out1
+[Thu Nov 19 8:33:29 2015] Copy success
+[Thu Nov 19 8:33:29 2015] Coping /var/nthuoj/testdata/2.in to /tmp/judgeFile/testdata/in2
+[Thu Nov 19 8:33:29 2015] Copy success
+[Thu Nov 19 8:33:29 2015] Coping /var/nthuoj/testdata/2.out to /tmp/judgeFile/testdata/out2
+[Thu Nov 19 8:33:29 2015] Copy success
+[Thu Nov 19 8:33:29 2015] Move files end
+[Thu Nov 19 8:33:29 2015] Calling judge...
+[Thu Nov 19 8:33:29 2015] Call judge end
+[Thu Nov 19 8:33:55 2015] ==========interface start==========
+[Thu Nov 19 8:33:55 2015] Receiving information from dispatcher...
+[Thu Nov 19 8:33:55 2015] Recvive information end
+[Thu Nov 19 8:33:55 2015] Moving file to judge folder...
+[Thu Nov 19 8:33:55 2015] Moving source code...
+[Thu Nov 19 8:33:55 2015] Coping /var/nthuoj/source/1.c to /tmp/judgeFile/code.c
+[Thu Nov 19 8:33:55 2015] Copy success
+[Thu Nov 19 8:33:55 2015] Moving testcases...
+[Thu Nov 19 8:33:55 2015] Coping /var/nthuoj/testdata/1.in to /tmp/judgeFile/testdata/in1
+[Thu Nov 19 8:33:55 2015] Copy success
+[Thu Nov 19 8:33:55 2015] Coping /var/nthuoj/testdata/1.out to /tmp/judgeFile/testdata/out1
+[Thu Nov 19 8:33:55 2015] Copy success
+[Thu Nov 19 8:33:55 2015] Coping /var/nthuoj/testdata/2.in to /tmp/judgeFile/testdata/in2
+[Thu Nov 19 8:33:55 2015] Copy success
+[Thu Nov 19 8:33:55 2015] Coping /var/nthuoj/testdata/2.out to /tmp/judgeFile/testdata/out2
+[Thu Nov 19 8:33:55 2015] Copy success
+[Thu Nov 19 8:33:55 2015] Move files end
+[Thu Nov 19 8:33:55 2015] Calling judge...
+[Thu Nov 19 8:33:55 2015] Call judge end
+[Thu Nov 19 8:49:35 2015] ==========interface start==========
+[Thu Nov 19 8:49:35 2015] Receiving information from dispatcher...
+[Thu Nov 19 8:49:35 2015] Recvive information end
+[Thu Nov 19 8:49:35 2015] Moving file to judge folder...
+[Thu Nov 19 8:49:35 2015] Moving source code...
+[Thu Nov 19 8:49:35 2015] Coping /var/nthuoj/source/1.c to /tmp/judgeFile/code.c
+[Thu Nov 19 8:49:35 2015] Copy success
+[Thu Nov 19 8:49:35 2015] Moving testcases...
+[Thu Nov 19 8:49:35 2015] Coping /var/nthuoj/testdata/1.in to /tmp/judgeFile/testdata/in1
+[Thu Nov 19 8:49:35 2015] Copy success
+[Thu Nov 19 8:49:35 2015] Coping /var/nthuoj/testdata/1.out to /tmp/judgeFile/testdata/out1
+[Thu Nov 19 8:49:35 2015] Copy success
+[Thu Nov 19 8:49:35 2015] Coping /var/nthuoj/testdata/2.in to /tmp/judgeFile/testdata/in2
+[Thu Nov 19 8:49:35 2015] Copy success
+[Thu Nov 19 8:49:35 2015] Coping /var/nthuoj/testdata/2.out to /tmp/judgeFile/testdata/out2
+[Thu Nov 19 8:49:35 2015] Copy success
+[Thu Nov 19 8:49:35 2015] Move files end
+[Thu Nov 19 8:49:35 2015] Calling judge...
+[Thu Nov 19 8:49:35 2015] Call judge end
+[Thu Nov 19 9:01:45 2015] ==========interface start==========
+[Thu Nov 19 9:01:45 2015] Receiving information from dispatcher...
+[Thu Nov 19 9:01:45 2015] Recvive information end
+[Thu Nov 19 9:01:45 2015] Moving file to judge folder...
+[Thu Nov 19 9:01:45 2015] Moving source code...
+[Thu Nov 19 9:01:45 2015] Coping /var/nthuoj/source/1.c to /tmp/judgeFile/code.c
+[Thu Nov 19 9:01:45 2015] Copy success
+[Thu Nov 19 9:01:45 2015] Moving testcases...
+[Thu Nov 19 9:01:45 2015] Coping /var/nthuoj/testdata/1.in to /tmp/judgeFile/testdata/in1
+[Thu Nov 19 9:01:45 2015] Copy success
+[Thu Nov 19 9:01:45 2015] Coping /var/nthuoj/testdata/1.out to /tmp/judgeFile/testdata/out1
+[Thu Nov 19 9:01:45 2015] Copy success
+[Thu Nov 19 9:01:45 2015] Coping /var/nthuoj/testdata/2.in to /tmp/judgeFile/testdata/in2
+[Thu Nov 19 9:01:45 2015] Copy success
+[Thu Nov 19 9:01:45 2015] Coping /var/nthuoj/testdata/2.out to /tmp/judgeFile/testdata/out2
+[Thu Nov 19 9:01:45 2015] Copy success
+[Thu Nov 19 9:01:45 2015] Move files end
+[Thu Nov 19 9:01:45 2015] Calling judge...
+[Thu Nov 19 9:01:45 2015] Call judge end
+[Thu Nov 19 9:04:25 2015] ==========interface start==========
+[Thu Nov 19 9:04:25 2015] Receiving information from dispatcher...
+[Thu Nov 19 9:04:25 2015] Recvive information end
+[Thu Nov 19 9:04:25 2015] Moving file to judge folder...
+[Thu Nov 19 9:04:25 2015] Moving source code...
+[Thu Nov 19 9:04:25 2015] Coping /var/nthuoj/source/1.c to /tmp/judgeFile/code.c
+[Thu Nov 19 9:04:25 2015] Copy success
+[Thu Nov 19 9:04:25 2015] Moving testcases...
+[Thu Nov 19 9:04:25 2015] Coping /var/nthuoj/testdata/1.in to /tmp/judgeFile/testdata/in1
+[Thu Nov 19 9:04:25 2015] Copy success
+[Thu Nov 19 9:04:25 2015] Coping /var/nthuoj/testdata/1.out to /tmp/judgeFile/testdata/out1
+[Thu Nov 19 9:04:25 2015] Copy success
+[Thu Nov 19 9:04:25 2015] Coping /var/nthuoj/testdata/2.in to /tmp/judgeFile/testdata/in2
+[Thu Nov 19 9:04:25 2015] Copy success
+[Thu Nov 19 9:04:25 2015] Coping /var/nthuoj/testdata/2.out to /tmp/judgeFile/testdata/out2
+[Thu Nov 19 9:04:25 2015] Copy success
+[Thu Nov 19 9:04:25 2015] Move files end
+[Thu Nov 19 9:04:25 2015] Calling judge...
+[Thu Nov 19 9:04:25 2015] Call judge end
+[Thu Nov 19 9:06:23 2015] ==========interface start==========
+[Thu Nov 19 9:06:23 2015] Receiving information from dispatcher...
+[Thu Nov 19 9:06:23 2015] Recvive information end
+[Thu Nov 19 9:06:23 2015] Moving file to judge folder...
+[Thu Nov 19 9:06:23 2015] Moving source code...
+[Thu Nov 19 9:06:23 2015] Coping /var/nthuoj/source/1.c to /tmp/judgeFile/code.c
+[Thu Nov 19 9:06:23 2015] Copy success
+[Thu Nov 19 9:06:23 2015] Moving testcases...
+[Thu Nov 19 9:06:23 2015] Coping /var/nthuoj/testdata/1.in to /tmp/judgeFile/testdata/in1
+[Thu Nov 19 9:06:23 2015] Copy success
+[Thu Nov 19 9:06:23 2015] Coping /var/nthuoj/testdata/1.out to /tmp/judgeFile/testdata/out1
+[Thu Nov 19 9:06:23 2015] Copy success
+[Thu Nov 19 9:06:23 2015] Coping /var/nthuoj/testdata/2.in to /tmp/judgeFile/testdata/in2
+[Thu Nov 19 9:06:23 2015] Copy success
+[Thu Nov 19 9:06:23 2015] Coping /var/nthuoj/testdata/2.out to /tmp/judgeFile/testdata/out2
+[Thu Nov 19 9:06:23 2015] Copy success
+[Thu Nov 19 9:06:23 2015] Move files end
+[Thu Nov 19 9:06:23 2015] Calling judge...
+[Thu Nov 19 9:06:23 2015] Call judge end
+[Thu Nov 19 9:09:31 2015] ==========interface start==========
+[Thu Nov 19 9:09:31 2015] Receiving information from dispatcher...
+[Thu Nov 19 9:09:31 2015] Recvive information end
+[Thu Nov 19 9:09:31 2015] Moving file to judge folder...
+[Thu Nov 19 9:09:31 2015] Moving source code...
+[Thu Nov 19 9:09:31 2015] Coping /var/nthuoj/source/1.c to /tmp/judgeFile/code.c
+[Thu Nov 19 9:09:31 2015] Copy success
+[Thu Nov 19 9:09:31 2015] Moving testcases...
+[Thu Nov 19 9:09:31 2015] Coping /var/nthuoj/testdata/1.in to /tmp/judgeFile/testdata/in1
+[Thu Nov 19 9:09:31 2015] Copy success
+[Thu Nov 19 9:09:31 2015] Coping /var/nthuoj/testdata/1.out to /tmp/judgeFile/testdata/out1
+[Thu Nov 19 9:09:31 2015] Copy success
+[Thu Nov 19 9:09:31 2015] Coping /var/nthuoj/testdata/2.in to /tmp/judgeFile/testdata/in2
+[Thu Nov 19 9:09:31 2015] Copy success
+[Thu Nov 19 9:09:31 2015] Coping /var/nthuoj/testdata/2.out to /tmp/judgeFile/testdata/out2
+[Thu Nov 19 9:09:31 2015] Copy success
+[Thu Nov 19 9:09:31 2015] Move files end
+[Thu Nov 19 9:09:31 2015] Calling judge...
+[Thu Nov 19 9:09:32 2015] Call judge end
+[Thu Nov 19 9:10:46 2015] ==========interface start==========
+[Thu Nov 19 9:10:46 2015] Receiving information from dispatcher...
+[Thu Nov 19 9:10:46 2015] Recvive information end
+[Thu Nov 19 9:10:46 2015] Moving file to judge folder...
+[Thu Nov 19 9:10:46 2015] Moving source code...
+[Thu Nov 19 9:10:46 2015] Coping /var/nthuoj/source/1.c to /tmp/judgeFile/code.c
+[Thu Nov 19 9:10:47 2015] Copy success
+[Thu Nov 19 9:10:47 2015] Moving testcases...
+[Thu Nov 19 9:10:47 2015] Coping /var/nthuoj/testdata/1.in to /tmp/judgeFile/testdata/in1
+[Thu Nov 19 9:10:47 2015] Copy success
+[Thu Nov 19 9:10:47 2015] Coping /var/nthuoj/testdata/1.out to /tmp/judgeFile/testdata/out1
+[Thu Nov 19 9:10:47 2015] Copy success
+[Thu Nov 19 9:10:47 2015] Coping /var/nthuoj/testdata/2.in to /tmp/judgeFile/testdata/in2
+[Thu Nov 19 9:10:47 2015] Copy success
+[Thu Nov 19 9:10:47 2015] Coping /var/nthuoj/testdata/2.out to /tmp/judgeFile/testdata/out2
+[Thu Nov 19 9:10:47 2015] Copy success
+[Thu Nov 19 9:10:47 2015] Move files end
+[Thu Nov 19 9:10:47 2015] Calling judge...
+[Thu Nov 19 9:10:47 2015] Call judge end
+[Thu Nov 19 9:11:19 2015] ==========interface start==========
+[Thu Nov 19 9:11:19 2015] Receiving information from dispatcher...
+[Thu Nov 19 9:11:19 2015] Recvive information end
+[Thu Nov 19 9:11:19 2015] Moving file to judge folder...
+[Thu Nov 19 9:11:19 2015] Moving source code...
+[Thu Nov 19 9:11:19 2015] Coping /var/nthuoj/source/1.c to /tmp/judgeFile/code.c
+[Thu Nov 19 9:11:19 2015] Copy success
+[Thu Nov 19 9:11:19 2015] Moving testcases...
+[Thu Nov 19 9:11:19 2015] Coping /var/nthuoj/testdata/1.in to /tmp/judgeFile/testdata/in1
+[Thu Nov 19 9:11:19 2015] Copy success
+[Thu Nov 19 9:11:19 2015] Coping /var/nthuoj/testdata/1.out to /tmp/judgeFile/testdata/out1
+[Thu Nov 19 9:11:19 2015] Copy success
+[Thu Nov 19 9:11:19 2015] Coping /var/nthuoj/testdata/2.in to /tmp/judgeFile/testdata/in2
+[Thu Nov 19 9:11:19 2015] Copy success
+[Thu Nov 19 9:11:19 2015] Coping /var/nthuoj/testdata/2.out to /tmp/judgeFile/testdata/out2
+[Thu Nov 19 9:11:19 2015] Copy success
+[Thu Nov 19 9:11:19 2015] Move files end
+[Thu Nov 19 9:11:19 2015] Calling judge...
+[Thu Nov 19 9:11:19 2015] Call judge end
+[Thu Nov 19 9:11:46 2015] ==========interface start==========
+[Thu Nov 19 9:11:46 2015] Receiving information from dispatcher...
+[Thu Nov 19 9:11:46 2015] Recvive information end
+[Thu Nov 19 9:11:46 2015] Moving file to judge folder...
+[Thu Nov 19 9:11:46 2015] Moving source code...
+[Thu Nov 19 9:11:46 2015] Coping /var/nthuoj/source/1.c to /tmp/judgeFile/code.c
+[Thu Nov 19 9:11:46 2015] Copy success
+[Thu Nov 19 9:11:46 2015] Moving testcases...
+[Thu Nov 19 9:11:46 2015] Coping /var/nthuoj/testdata/1.in to /tmp/judgeFile/testdata/in1
+[Thu Nov 19 9:11:46 2015] Copy success
+[Thu Nov 19 9:11:46 2015] Coping /var/nthuoj/testdata/1.out to /tmp/judgeFile/testdata/out1
+[Thu Nov 19 9:11:46 2015] Copy success
+[Thu Nov 19 9:11:46 2015] Coping /var/nthuoj/testdata/2.in to /tmp/judgeFile/testdata/in2
+[Thu Nov 19 9:11:46 2015] Copy success
+[Thu Nov 19 9:11:46 2015] Coping /var/nthuoj/testdata/2.out to /tmp/judgeFile/testdata/out2
+[Thu Nov 19 9:11:46 2015] Copy success
+[Thu Nov 19 9:11:46 2015] Move files end
+[Thu Nov 19 9:11:46 2015] Calling judge...
+[Thu Nov 19 9:11:46 2015] Call judge end
+[Thu Nov 19 9:12:36 2015] ==========interface start==========
+[Thu Nov 19 9:12:36 2015] Receiving information from dispatcher...
+[Thu Nov 19 9:12:36 2015] Recvive information end
+[Thu Nov 19 9:12:36 2015] Moving file to judge folder...
+[Thu Nov 19 9:12:36 2015] Moving source code...
+[Thu Nov 19 9:12:36 2015] Coping /var/nthuoj/source/1.c to /tmp/judgeFile/code.c
+[Thu Nov 19 9:12:36 2015] Copy success
+[Thu Nov 19 9:12:36 2015] Moving testcases...
+[Thu Nov 19 9:12:36 2015] Coping /var/nthuoj/testdata/1.in to /tmp/judgeFile/testdata/in1
+[Thu Nov 19 9:12:36 2015] Copy success
+[Thu Nov 19 9:12:36 2015] Coping /var/nthuoj/testdata/1.out to /tmp/judgeFile/testdata/out1
+[Thu Nov 19 9:12:36 2015] Copy success
+[Thu Nov 19 9:12:36 2015] Coping /var/nthuoj/testdata/2.in to /tmp/judgeFile/testdata/in2
+[Thu Nov 19 9:12:36 2015] Copy success
+[Thu Nov 19 9:12:36 2015] Coping /var/nthuoj/testdata/2.out to /tmp/judgeFile/testdata/out2
+[Thu Nov 19 9:12:36 2015] Copy success
+[Thu Nov 19 9:12:36 2015] Move files end
+[Thu Nov 19 9:12:36 2015] Calling judge...
+[Thu Nov 19 9:12:36 2015] Call judge end
+[Thu Nov 19 9:13:23 2015] ==========interface start==========
+[Thu Nov 19 9:13:23 2015] Receiving information from dispatcher...
+[Thu Nov 19 9:13:23 2015] Recvive information end
+[Thu Nov 19 9:13:23 2015] Moving file to judge folder...
+[Thu Nov 19 9:13:23 2015] Moving source code...
+[Thu Nov 19 9:13:23 2015] Coping /var/nthuoj/source/1.c to /tmp/judgeFile/code.c
+[Thu Nov 19 9:13:23 2015] Copy success
+[Thu Nov 19 9:13:23 2015] Moving testcases...
+[Thu Nov 19 9:13:23 2015] Coping /var/nthuoj/testdata/1.in to /tmp/judgeFile/testdata/in1
+[Thu Nov 19 9:13:23 2015] Copy success
+[Thu Nov 19 9:13:23 2015] Coping /var/nthuoj/testdata/1.out to /tmp/judgeFile/testdata/out1
+[Thu Nov 19 9:13:23 2015] Copy success
+[Thu Nov 19 9:13:23 2015] Coping /var/nthuoj/testdata/2.in to /tmp/judgeFile/testdata/in2
+[Thu Nov 19 9:13:23 2015] Copy success
+[Thu Nov 19 9:13:23 2015] Coping /var/nthuoj/testdata/2.out to /tmp/judgeFile/testdata/out2
+[Thu Nov 19 9:13:23 2015] Copy success
+[Thu Nov 19 9:13:23 2015] Move files end
+[Thu Nov 19 9:13:23 2015] Calling judge...
+[Thu Nov 19 9:13:23 2015] Call judge end
+[Thu Nov 19 9:14:52 2015] ==========interface start==========
+[Thu Nov 19 9:14:52 2015] Receiving information from dispatcher...
+[Thu Nov 19 9:14:52 2015] Recvive information end
+[Thu Nov 19 9:14:52 2015] Moving file to judge folder...
+[Thu Nov 19 9:14:52 2015] Moving source code...
+[Thu Nov 19 9:14:52 2015] Coping /var/nthuoj/source/1.c to /tmp/judgeFile/code.c
+[Thu Nov 19 9:14:52 2015] Copy success
+[Thu Nov 19 9:14:52 2015] Moving testcases...
+[Thu Nov 19 9:14:52 2015] Coping /var/nthuoj/testdata/1.in to /tmp/judgeFile/testdata/in1
+[Thu Nov 19 9:14:52 2015] Copy success
+[Thu Nov 19 9:14:52 2015] Coping /var/nthuoj/testdata/1.out to /tmp/judgeFile/testdata/out1
+[Thu Nov 19 9:14:52 2015] Copy success
+[Thu Nov 19 9:14:52 2015] Coping /var/nthuoj/testdata/2.in to /tmp/judgeFile/testdata/in2
+[Thu Nov 19 9:14:52 2015] Copy success
+[Thu Nov 19 9:14:52 2015] Coping /var/nthuoj/testdata/2.out to /tmp/judgeFile/testdata/out2
+[Thu Nov 19 9:14:52 2015] Copy success
+[Thu Nov 19 9:14:52 2015] Move files end
+[Thu Nov 19 9:14:52 2015] Calling judge...
+[Thu Nov 19 9:14:52 2015] Call judge end
+[Thu Nov 19 9:20:03 2015] ==========interface start==========
+[Thu Nov 19 9:20:03 2015] Receiving information from dispatcher...
+[Thu Nov 19 9:20:03 2015] Recvive information end
+[Thu Nov 19 9:20:03 2015] Moving file to judge folder...
+[Thu Nov 19 9:20:03 2015] Moving source code...
+[Thu Nov 19 9:20:03 2015] Coping /var/nthuoj/source/1.c to /tmp/judgeFile/code.c
+[Thu Nov 19 9:20:03 2015] Copy success
+[Thu Nov 19 9:20:03 2015] Moving testcases...
+[Thu Nov 19 9:20:03 2015] Coping /var/nthuoj/testdata/1.in to /tmp/judgeFile/testdata/in1
+[Thu Nov 19 9:20:03 2015] Copy success
+[Thu Nov 19 9:20:03 2015] Coping /var/nthuoj/testdata/1.out to /tmp/judgeFile/testdata/out1
+[Thu Nov 19 9:20:03 2015] Copy success
+[Thu Nov 19 9:20:03 2015] Coping /var/nthuoj/testdata/2.in to /tmp/judgeFile/testdata/in2
+[Thu Nov 19 9:20:03 2015] Copy success
+[Thu Nov 19 9:20:03 2015] Coping /var/nthuoj/testdata/2.out to /tmp/judgeFile/testdata/out2
+[Thu Nov 19 9:20:03 2015] Copy success
+[Thu Nov 19 9:20:03 2015] Move files end
+[Thu Nov 19 9:20:03 2015] Calling judge...
+[Thu Nov 19 9:20:03 2015] Call judge end
+[Thu Nov 19 9:23:12 2015] ==========interface start==========
+[Thu Nov 19 9:23:12 2015] Receiving information from dispatcher...
+[Thu Nov 19 9:23:12 2015] Recvive information end
+[Thu Nov 19 9:23:12 2015] Moving file to judge folder...
+[Thu Nov 19 9:23:12 2015] Moving source code...
+[Thu Nov 19 9:23:12 2015] Coping /var/nthuoj/source/1.c to /tmp/judgeFile/code.c
+[Thu Nov 19 9:23:12 2015] Copy success
+[Thu Nov 19 9:23:12 2015] Moving testcases...
+[Thu Nov 19 9:23:12 2015] Coping /var/nthuoj/testdata/1.in to /tmp/judgeFile/testdata/in1
+[Thu Nov 19 9:23:12 2015] Copy success
+[Thu Nov 19 9:23:12 2015] Coping /var/nthuoj/testdata/1.out to /tmp/judgeFile/testdata/out1
+[Thu Nov 19 9:23:12 2015] Copy success
+[Thu Nov 19 9:23:12 2015] Coping /var/nthuoj/testdata/2.in to /tmp/judgeFile/testdata/in2
+[Thu Nov 19 9:23:12 2015] Copy success
+[Thu Nov 19 9:23:12 2015] Coping /var/nthuoj/testdata/2.out to /tmp/judgeFile/testdata/out2
+[Thu Nov 19 9:23:12 2015] Copy success
+[Thu Nov 19 9:23:12 2015] Move files end
+[Thu Nov 19 9:23:12 2015] Calling judge...
+[Thu Nov 19 9:23:12 2015] Call judge end
+[Thu Nov 19 9:23:47 2015] ==========interface start==========
+[Thu Nov 19 9:23:47 2015] Receiving information from dispatcher...
+[Thu Nov 19 9:23:47 2015] Recvive information end
+[Thu Nov 19 9:23:47 2015] Moving file to judge folder...
+[Thu Nov 19 9:23:47 2015] Moving source code...
+[Thu Nov 19 9:23:47 2015] Coping /var/nthuoj/source/1.c to /tmp/judgeFile/code.c
+[Thu Nov 19 9:23:47 2015] Copy success
+[Thu Nov 19 9:23:47 2015] Moving testcases...
+[Thu Nov 19 9:23:47 2015] Coping /var/nthuoj/testdata/1.in to /tmp/judgeFile/testdata/in1
+[Thu Nov 19 9:23:47 2015] Copy success
+[Thu Nov 19 9:23:47 2015] Coping /var/nthuoj/testdata/1.out to /tmp/judgeFile/testdata/out1
+[Thu Nov 19 9:23:47 2015] Copy success
+[Thu Nov 19 9:23:47 2015] Coping /var/nthuoj/testdata/2.in to /tmp/judgeFile/testdata/in2
+[Thu Nov 19 9:23:47 2015] Copy success
+[Thu Nov 19 9:23:47 2015] Coping /var/nthuoj/testdata/2.out to /tmp/judgeFile/testdata/out2
+[Thu Nov 19 9:23:47 2015] Copy success
+[Thu Nov 19 9:23:47 2015] Move files end
+[Thu Nov 19 9:23:47 2015] Calling judge...
+[Thu Nov 19 9:23:48 2015] Call judge end
+[Thu Nov 19 9:48:20 2015] ==========interface start==========
+[Thu Nov 19 9:48:20 2015] Receiving information from dispatcher...
+[Thu Nov 19 9:48:20 2015] Recvive information end
+[Thu Nov 19 9:48:20 2015] Moving file to judge folder...
+[Thu Nov 19 9:48:20 2015] Moving source code...
+[Thu Nov 19 9:48:20 2015] Coping /var/nthuoj/source/1.c to /tmp/judgeFile/code.c
+[Thu Nov 19 9:48:20 2015] Copy success
+[Thu Nov 19 9:48:20 2015] Moving testcases...
+[Thu Nov 19 9:48:20 2015] Coping /var/nthuoj/testdata/1.in to /tmp/judgeFile/testdata/in1
+[Thu Nov 19 9:48:20 2015] Copy success
+[Thu Nov 19 9:48:20 2015] Coping /var/nthuoj/testdata/1.out to /tmp/judgeFile/testdata/out1
+[Thu Nov 19 9:48:20 2015] Copy success
+[Thu Nov 19 9:48:20 2015] Coping /var/nthuoj/testdata/2.in to /tmp/judgeFile/testdata/in2
+[Thu Nov 19 9:48:20 2015] Copy success
+[Thu Nov 19 9:48:20 2015] Coping /var/nthuoj/testdata/2.out to /tmp/judgeFile/testdata/out2
+[Thu Nov 19 9:48:20 2015] Copy success
+[Thu Nov 19 9:48:20 2015] Move files end
+[Thu Nov 19 9:48:20 2015] Calling judge...
+[Thu Nov 19 9:48:20 2015] Call judge end
+[Thu Nov 19 10:08:01 2015] ==========interface start==========
+[Thu Nov 19 10:08:01 2015] Receiving information from dispatcher...
+[Thu Nov 19 10:08:01 2015] Recvive information end
+[Thu Nov 19 10:08:01 2015] Moving file to judge folder...
+[Thu Nov 19 10:08:01 2015] Moving source code...
+[Thu Nov 19 10:08:01 2015] Coping /var/nthuoj/source/1.c to /tmp/judgeFile/code.c
+[Thu Nov 19 10:08:01 2015] Copy success
+[Thu Nov 19 10:08:01 2015] Moving testcases...
+[Thu Nov 19 10:08:01 2015] Coping /var/nthuoj/testdata/1.in to /tmp/judgeFile/testdata/in1
+[Thu Nov 19 10:08:01 2015] Copy success
+[Thu Nov 19 10:08:01 2015] Coping /var/nthuoj/testdata/1.out to /tmp/judgeFile/testdata/out1
+[Thu Nov 19 10:08:01 2015] Copy success
+[Thu Nov 19 10:08:01 2015] Coping /var/nthuoj/testdata/2.in to /tmp/judgeFile/testdata/in2
+[Thu Nov 19 10:08:01 2015] Copy success
+[Thu Nov 19 10:08:01 2015] Coping /var/nthuoj/testdata/2.out to /tmp/judgeFile/testdata/out2
+[Thu Nov 19 10:08:01 2015] Copy success
+[Thu Nov 19 10:08:01 2015] Move files end
+[Thu Nov 19 10:08:01 2015] Calling judge...
+[Thu Nov 19 10:08:01 2015] Call judge end
+[Thu Nov 19 10:08:36 2015] ==========interface start==========
+[Thu Nov 19 10:08:36 2015] Receiving information from dispatcher...
+[Thu Nov 19 10:08:36 2015] Recvive information end
+[Thu Nov 19 10:08:36 2015] Moving file to judge folder...
+[Thu Nov 19 10:08:36 2015] Moving source code...
+[Thu Nov 19 10:08:36 2015] Coping /var/nthuoj/source/1.c to /tmp/judgeFile/code.c
+[Thu Nov 19 10:08:36 2015] Copy success
+[Thu Nov 19 10:08:36 2015] Moving testcases...
+[Thu Nov 19 10:08:36 2015] Coping /var/nthuoj/testdata/1.in to /tmp/judgeFile/testdata/in1
+[Thu Nov 19 10:08:36 2015] Copy success
+[Thu Nov 19 10:08:36 2015] Coping /var/nthuoj/testdata/1.out to /tmp/judgeFile/testdata/out1
+[Thu Nov 19 10:08:36 2015] Copy success
+[Thu Nov 19 10:08:36 2015] Coping /var/nthuoj/testdata/2.in to /tmp/judgeFile/testdata/in2
+[Thu Nov 19 10:08:36 2015] Copy success
+[Thu Nov 19 10:08:36 2015] Coping /var/nthuoj/testdata/2.out to /tmp/judgeFile/testdata/out2
+[Thu Nov 19 10:08:36 2015] Copy success
+[Thu Nov 19 10:08:36 2015] Move files end
+[Thu Nov 19 10:08:36 2015] Calling judge...
+[Thu Nov 19 10:08:36 2015] Call judge end
+[Thu Nov 19 10:09:22 2015] ==========interface start==========
+[Thu Nov 19 10:09:22 2015] Receiving information from dispatcher...
+[Thu Nov 19 10:09:22 2015] Recvive information end
+[Thu Nov 19 10:09:22 2015] Moving file to judge folder...
+[Thu Nov 19 10:09:22 2015] Moving source code...
+[Thu Nov 19 10:09:22 2015] Coping /var/nthuoj/source/1.c to /tmp/judgeFile/code.c
+[Thu Nov 19 10:09:22 2015] Copy success
+[Thu Nov 19 10:09:22 2015] Moving testcases...
+[Thu Nov 19 10:09:22 2015] Coping /var/nthuoj/testdata/1.in to /tmp/judgeFile/testdata/in1
+[Thu Nov 19 10:09:22 2015] Copy success
+[Thu Nov 19 10:09:22 2015] Coping /var/nthuoj/testdata/1.out to /tmp/judgeFile/testdata/out1
+[Thu Nov 19 10:09:22 2015] Copy success
+[Thu Nov 19 10:09:22 2015] Coping /var/nthuoj/testdata/2.in to /tmp/judgeFile/testdata/in2
+[Thu Nov 19 10:09:22 2015] Copy success
+[Thu Nov 19 10:09:22 2015] Coping /var/nthuoj/testdata/2.out to /tmp/judgeFile/testdata/out2
+[Thu Nov 19 10:09:22 2015] Copy success
+[Thu Nov 19 10:09:22 2015] Move files end
+[Thu Nov 19 10:09:22 2015] Calling judge...
+[Thu Nov 19 10:09:23 2015] Call judge end
+[Thu Nov 19 10:09:50 2015] ==========interface start==========
+[Thu Nov 19 10:09:50 2015] Receiving information from dispatcher...
+[Thu Nov 19 10:09:50 2015] Recvive information end
+[Thu Nov 19 10:09:50 2015] Moving file to judge folder...
+[Thu Nov 19 10:09:50 2015] Moving source code...
+[Thu Nov 19 10:09:50 2015] Coping /var/nthuoj/source/1.c to /tmp/judgeFile/code.c
+[Thu Nov 19 10:09:50 2015] Copy success
+[Thu Nov 19 10:09:50 2015] Moving testcases...
+[Thu Nov 19 10:09:50 2015] Coping /var/nthuoj/testdata/1.in to /tmp/judgeFile/testdata/in1
+[Thu Nov 19 10:09:50 2015] Copy success
+[Thu Nov 19 10:09:50 2015] Coping /var/nthuoj/testdata/1.out to /tmp/judgeFile/testdata/out1
+[Thu Nov 19 10:09:50 2015] Copy success
+[Thu Nov 19 10:09:50 2015] Coping /var/nthuoj/testdata/2.in to /tmp/judgeFile/testdata/in2
+[Thu Nov 19 10:09:50 2015] Copy success
+[Thu Nov 19 10:09:50 2015] Coping /var/nthuoj/testdata/2.out to /tmp/judgeFile/testdata/out2
+[Thu Nov 19 10:09:50 2015] Copy success
+[Thu Nov 19 10:09:50 2015] Move files end
+[Thu Nov 19 10:09:50 2015] Calling judge...
+[Thu Nov 19 10:09:50 2015] Call judge end
+[Thu Nov 19 10:10:19 2015] ==========interface start==========
+[Thu Nov 19 10:10:19 2015] Receiving information from dispatcher...
+[Thu Nov 19 10:10:19 2015] Recvive information end
+[Thu Nov 19 10:10:19 2015] Moving file to judge folder...
+[Thu Nov 19 10:10:19 2015] Moving source code...
+[Thu Nov 19 10:10:19 2015] Coping /var/nthuoj/source/1.c to /tmp/judgeFile/code.c
+[Thu Nov 19 10:10:19 2015] Copy success
+[Thu Nov 19 10:10:19 2015] Moving testcases...
+[Thu Nov 19 10:10:19 2015] Coping /var/nthuoj/testdata/1.in to /tmp/judgeFile/testdata/in1
+[Thu Nov 19 10:10:19 2015] Copy success
+[Thu Nov 19 10:10:19 2015] Coping /var/nthuoj/testdata/1.out to /tmp/judgeFile/testdata/out1
+[Thu Nov 19 10:10:19 2015] Copy success
+[Thu Nov 19 10:10:19 2015] Coping /var/nthuoj/testdata/2.in to /tmp/judgeFile/testdata/in2
+[Thu Nov 19 10:10:19 2015] Copy success
+[Thu Nov 19 10:10:19 2015] Coping /var/nthuoj/testdata/2.out to /tmp/judgeFile/testdata/out2
+[Thu Nov 19 10:10:19 2015] Copy success
+[Thu Nov 19 10:10:19 2015] Move files end
+[Thu Nov 19 10:10:19 2015] Calling judge...
+[Thu Nov 19 10:10:19 2015] Call judge end
+[Thu Nov 19 10:56:46 2015] ==========interface start==========
+[Thu Nov 19 10:56:46 2015] Receiving information from dispatcher...
+[Thu Nov 19 10:56:46 2015] Recvive information end
+[Thu Nov 19 10:56:46 2015] Moving file to judge folder...
+[Thu Nov 19 10:56:46 2015] Moving source code...
+[Thu Nov 19 10:56:46 2015] Coping /var/nthuoj/source/1.c to /tmp/judgeFile/code.c
+[Thu Nov 19 10:56:46 2015] Copy success
+[Thu Nov 19 10:56:46 2015] Moving testcases...
+[Thu Nov 19 10:56:46 2015] Coping /var/nthuoj/testdata/1.in to /tmp/judgeFile/testdata/in1
+[Thu Nov 19 10:56:46 2015] Copy success
+[Thu Nov 19 10:56:46 2015] Coping /var/nthuoj/testdata/1.out to /tmp/judgeFile/testdata/out1
+[Thu Nov 19 10:56:46 2015] Copy success
+[Thu Nov 19 10:56:46 2015] Coping /var/nthuoj/testdata/2.in to /tmp/judgeFile/testdata/in2
+[Thu Nov 19 10:56:46 2015] Copy success
+[Thu Nov 19 10:56:46 2015] Coping /var/nthuoj/testdata/2.out to /tmp/judgeFile/testdata/out2
+[Thu Nov 19 10:56:46 2015] Copy success
+[Thu Nov 19 10:56:46 2015] Move files end
+[Thu Nov 19 10:56:46 2015] Calling judge...
+[Thu Nov 19 10:56:46 2015] Call judge end
+[Thu Nov 19 10:56:53 2015] ==========interface start==========
+[Thu Nov 19 10:56:53 2015] Receiving information from dispatcher...
+[Thu Nov 19 10:56:53 2015] Recvive information end
+[Thu Nov 19 10:56:53 2015] Moving file to judge folder...
+[Thu Nov 19 10:56:53 2015] Moving source code...
+[Thu Nov 19 10:56:53 2015] Coping /var/nthuoj/source/1.c to /tmp/judgeFile/code.c
+[Thu Nov 19 10:56:53 2015] Copy success
+[Thu Nov 19 10:56:53 2015] Moving testcases...
+[Thu Nov 19 10:56:53 2015] Coping /var/nthuoj/testdata/1.in to /tmp/judgeFile/testdata/in1
+[Thu Nov 19 10:56:53 2015] Copy success
+[Thu Nov 19 10:56:53 2015] Coping /var/nthuoj/testdata/1.out to /tmp/judgeFile/testdata/out1
+[Thu Nov 19 10:56:53 2015] Copy success
+[Thu Nov 19 10:56:53 2015] Coping /var/nthuoj/testdata/2.in to /tmp/judgeFile/testdata/in2
+[Thu Nov 19 10:56:53 2015] Copy success
+[Thu Nov 19 10:56:53 2015] Coping /var/nthuoj/testdata/2.out to /tmp/judgeFile/testdata/out2
+[Thu Nov 19 10:56:53 2015] Copy success
+[Thu Nov 19 10:56:53 2015] Move files end
+[Thu Nov 19 10:56:53 2015] Calling judge...
+[Thu Nov 19 10:56:53 2015] Call judge end
+[Thu Nov 19 10:56:57 2015] ==========interface start==========
+[Thu Nov 19 10:56:57 2015] Receiving information from dispatcher...
+[Thu Nov 19 10:56:57 2015] Recvive information end
+[Thu Nov 19 10:56:57 2015] Moving file to judge folder...
+[Thu Nov 19 10:56:57 2015] Moving source code...
+[Thu Nov 19 10:56:57 2015] Coping /var/nthuoj/source/1.c to /tmp/judgeFile/code.c
+[Thu Nov 19 10:56:57 2015] Copy success
+[Thu Nov 19 10:56:57 2015] Moving testcases...
+[Thu Nov 19 10:56:57 2015] Coping /var/nthuoj/testdata/1.in to /tmp/judgeFile/testdata/in1
+[Thu Nov 19 10:56:57 2015] Copy success
+[Thu Nov 19 10:56:57 2015] Coping /var/nthuoj/testdata/1.out to /tmp/judgeFile/testdata/out1
+[Thu Nov 19 10:56:57 2015] Copy success
+[Thu Nov 19 10:56:57 2015] Coping /var/nthuoj/testdata/2.in to /tmp/judgeFile/testdata/in2
+[Thu Nov 19 10:56:57 2015] Copy success
+[Thu Nov 19 10:56:57 2015] Coping /var/nthuoj/testdata/2.out to /tmp/judgeFile/testdata/out2
+[Thu Nov 19 10:56:57 2015] Copy success
+[Thu Nov 19 10:56:57 2015] Move files end
+[Thu Nov 19 10:56:57 2015] Calling judge...
+[Thu Nov 19 10:56:57 2015] Call judge end
+[Thu Nov 19 11:25:27 2015] ==========interface start==========
+[Thu Nov 19 11:25:27 2015] Receiving information from dispatcher...
+[Thu Nov 19 11:25:27 2015] Recvive information end
+[Thu Nov 19 11:25:27 2015] Moving file to judge folder...
+[Thu Nov 19 11:25:27 2015] Moving source code...
+[Thu Nov 19 11:25:27 2015] Coping /var/nthuoj/source/1.c to /tmp/judgeFile/code.c
+[Thu Nov 19 11:25:27 2015] Copy success
+[Thu Nov 19 11:25:27 2015] Moving testcases...
+[Thu Nov 19 11:25:27 2015] Coping /var/nthuoj/testdata/1.in to /tmp/judgeFile/testdata/in1
+[Thu Nov 19 11:25:27 2015] Copy success
+[Thu Nov 19 11:25:27 2015] Coping /var/nthuoj/testdata/1.out to /tmp/judgeFile/testdata/out1
+[Thu Nov 19 11:25:27 2015] Copy success
+[Thu Nov 19 11:25:27 2015] Coping /var/nthuoj/testdata/2.in to /tmp/judgeFile/testdata/in2
+[Thu Nov 19 11:25:27 2015] Copy success
+[Thu Nov 19 11:25:27 2015] Coping /var/nthuoj/testdata/2.out to /tmp/judgeFile/testdata/out2
+[Thu Nov 19 11:25:27 2015] Copy success
+[Thu Nov 19 11:25:27 2015] Move files end
+[Thu Nov 19 11:25:27 2015] Calling judge...
+[Thu Nov 19 11:25:27 2015] Call judge end
+[Thu Nov 19 11:27:15 2015] ==========interface start==========
+[Thu Nov 19 11:27:15 2015] Receiving information from dispatcher...
+[Thu Nov 19 11:27:15 2015] Recvive information end
+[Thu Nov 19 11:27:15 2015] Moving file to judge folder...
+[Thu Nov 19 11:27:15 2015] Moving source code...
+[Thu Nov 19 11:27:15 2015] Coping /var/nthuoj/source/1.c to /tmp/judgeFile/code.c
+[Thu Nov 19 11:27:15 2015] Copy success
+[Thu Nov 19 11:27:15 2015] Moving testcases...
+[Thu Nov 19 11:27:15 2015] Coping /var/nthuoj/testdata/1.in to /tmp/judgeFile/testdata/in1
+[Thu Nov 19 11:27:15 2015] Copy success
+[Thu Nov 19 11:27:15 2015] Coping /var/nthuoj/testdata/1.out to /tmp/judgeFile/testdata/out1
+[Thu Nov 19 11:27:15 2015] Copy success
+[Thu Nov 19 11:27:15 2015] Coping /var/nthuoj/testdata/2.in to /tmp/judgeFile/testdata/in2
+[Thu Nov 19 11:27:15 2015] Copy success
+[Thu Nov 19 11:27:15 2015] Coping /var/nthuoj/testdata/2.out to /tmp/judgeFile/testdata/out2
+[Thu Nov 19 11:27:15 2015] Copy success
+[Thu Nov 19 11:27:15 2015] Move files end
+[Thu Nov 19 11:27:15 2015] Calling judge...
+[Thu Nov 19 11:27:16 2015] Call judge end
+[Thu Nov 19 11:53:38 2015] ==========interface start==========
+[Thu Nov 19 11:53:38 2015] Receiving information from dispatcher...
+[Thu Nov 19 11:53:38 2015] Recvive information end
+[Thu Nov 19 11:53:38 2015] Moving file to judge folder...
+[Thu Nov 19 11:53:38 2015] Moving source code...
+[Thu Nov 19 11:53:38 2015] Coping /var/nthuoj/source/1.c to /tmp/judgeFile/code.c
+[Thu Nov 19 11:53:38 2015] Copy success
+[Thu Nov 19 11:53:38 2015] Moving testcases...
+[Thu Nov 19 11:53:38 2015] Coping /var/nthuoj/testdata/1.in to /tmp/judgeFile/testdata/in1
+[Thu Nov 19 11:53:38 2015] Copy success
+[Thu Nov 19 11:53:38 2015] Coping /var/nthuoj/testdata/1.out to /tmp/judgeFile/testdata/out1
+[Thu Nov 19 11:53:38 2015] Copy success
+[Thu Nov 19 11:53:38 2015] Coping /var/nthuoj/testdata/2.in to /tmp/judgeFile/testdata/in2
+[Thu Nov 19 11:53:38 2015] Copy success
+[Thu Nov 19 11:53:38 2015] Coping /var/nthuoj/testdata/2.out to /tmp/judgeFile/testdata/out2
+[Thu Nov 19 11:53:38 2015] Copy success
+[Thu Nov 19 11:53:38 2015] Move files end
+[Thu Nov 19 11:53:38 2015] Calling judge...
+[Thu Nov 19 11:53:38 2015] Call judge end
+[Thu Nov 19 11:54:35 2015] ==========interface start==========
+[Thu Nov 19 11:54:35 2015] Receiving information from dispatcher...
+[Thu Nov 19 11:54:35 2015] Recvive information end
+[Thu Nov 19 11:54:35 2015] Moving file to judge folder...
+[Thu Nov 19 11:54:35 2015] Moving source code...
+[Thu Nov 19 11:54:35 2015] Coping /var/nthuoj/source/1.c to /tmp/judgeFile/code.c
+[Thu Nov 19 11:54:35 2015] Copy success
+[Thu Nov 19 11:54:35 2015] Moving testcases...
+[Thu Nov 19 11:54:35 2015] Coping /var/nthuoj/testdata/1.in to /tmp/judgeFile/testdata/in1
+[Thu Nov 19 11:54:35 2015] Copy success
+[Thu Nov 19 11:54:35 2015] Coping /var/nthuoj/testdata/1.out to /tmp/judgeFile/testdata/out1
+[Thu Nov 19 11:54:35 2015] Copy success
+[Thu Nov 19 11:54:35 2015] Coping /var/nthuoj/testdata/2.in to /tmp/judgeFile/testdata/in2
+[Thu Nov 19 11:54:35 2015] Copy success
+[Thu Nov 19 11:54:35 2015] Coping /var/nthuoj/testdata/2.out to /tmp/judgeFile/testdata/out2
+[Thu Nov 19 11:54:35 2015] Copy success
+[Thu Nov 19 11:54:35 2015] Move files end
+[Thu Nov 19 11:54:35 2015] Calling judge...
+[Thu Nov 19 11:54:35 2015] Call judge end
+[Thu Nov 19 11:55:43 2015] ==========interface start==========
+[Thu Nov 19 11:55:43 2015] Receiving information from dispatcher...
+[Thu Nov 19 11:55:43 2015] Recvive information end
+[Thu Nov 19 11:55:43 2015] Moving file to judge folder...
+[Thu Nov 19 11:55:43 2015] Moving source code...
+[Thu Nov 19 11:55:43 2015] Coping /var/nthuoj/source/1.c to /tmp/judgeFile/code.c
+[Thu Nov 19 11:55:43 2015] Copy success
+[Thu Nov 19 11:55:43 2015] Moving testcases...
+[Thu Nov 19 11:55:43 2015] Coping /var/nthuoj/testdata/1.in to /tmp/judgeFile/testdata/in1
+[Thu Nov 19 11:55:43 2015] Copy success
+[Thu Nov 19 11:55:43 2015] Coping /var/nthuoj/testdata/1.out to /tmp/judgeFile/testdata/out1
+[Thu Nov 19 11:55:43 2015] Copy success
+[Thu Nov 19 11:55:43 2015] Coping /var/nthuoj/testdata/2.in to /tmp/judgeFile/testdata/in2
+[Thu Nov 19 11:55:43 2015] Copy success
+[Thu Nov 19 11:55:43 2015] Coping /var/nthuoj/testdata/2.out to /tmp/judgeFile/testdata/out2
+[Thu Nov 19 11:55:43 2015] Copy success
+[Thu Nov 19 11:55:43 2015] Move files end
+[Thu Nov 19 11:55:43 2015] Calling judge...
+[Thu Nov 19 11:55:44 2015] Call judge end
+[Thu Nov 19 11:57:33 2015] ==========interface start==========
+[Thu Nov 19 11:57:33 2015] Receiving information from dispatcher...
+[Thu Nov 19 11:57:33 2015] Recvive information end
+[Thu Nov 19 11:57:33 2015] Moving file to judge folder...
+[Thu Nov 19 11:57:33 2015] Moving source code...
+[Thu Nov 19 11:57:33 2015] Coping /var/nthuoj/source/1.c to /tmp/judgeFile/code.c
+[Thu Nov 19 11:57:33 2015] Copy success
+[Thu Nov 19 11:57:33 2015] Moving testcases...
+[Thu Nov 19 11:57:33 2015] Coping /var/nthuoj/testdata/1.in to /tmp/judgeFile/testdata/in1
+[Thu Nov 19 11:57:33 2015] Copy success
+[Thu Nov 19 11:57:33 2015] Coping /var/nthuoj/testdata/1.out to /tmp/judgeFile/testdata/out1
+[Thu Nov 19 11:57:33 2015] Copy success
+[Thu Nov 19 11:57:33 2015] Coping /var/nthuoj/testdata/2.in to /tmp/judgeFile/testdata/in2
+[Thu Nov 19 11:57:33 2015] Copy success
+[Thu Nov 19 11:57:33 2015] Coping /var/nthuoj/testdata/2.out to /tmp/judgeFile/testdata/out2
+[Thu Nov 19 11:57:33 2015] Copy success
+[Thu Nov 19 11:57:33 2015] Move files end
+[Thu Nov 19 11:57:33 2015] Calling judge...
+[Thu Nov 19 11:57:34 2015] Call judge end
+[Thu Nov 19 12:00:34 2015] ==========interface start==========
+[Thu Nov 19 12:00:34 2015] Receiving information from dispatcher...
+[Thu Nov 19 12:00:34 2015] Recvive information end
+[Thu Nov 19 12:00:34 2015] Moving file to judge folder...
+[Thu Nov 19 12:00:34 2015] Moving source code...
+[Thu Nov 19 12:00:34 2015] Coping /var/nthuoj/source/1.c to /tmp/judgeFile/code.c
+[Thu Nov 19 12:00:34 2015] Copy success
+[Thu Nov 19 12:00:34 2015] Moving testcases...
+[Thu Nov 19 12:00:34 2015] Coping /var/nthuoj/testdata/1.in to /tmp/judgeFile/testdata/in1
+[Thu Nov 19 12:00:34 2015] Copy success
+[Thu Nov 19 12:00:34 2015] Coping /var/nthuoj/testdata/1.out to /tmp/judgeFile/testdata/out1
+[Thu Nov 19 12:00:34 2015] Copy success
+[Thu Nov 19 12:00:34 2015] Coping /var/nthuoj/testdata/2.in to /tmp/judgeFile/testdata/in2
+[Thu Nov 19 12:00:34 2015] Copy success
+[Thu Nov 19 12:00:34 2015] Coping /var/nthuoj/testdata/2.out to /tmp/judgeFile/testdata/out2
+[Thu Nov 19 12:00:34 2015] Copy success
+[Thu Nov 19 12:00:34 2015] Move files end
+[Thu Nov 19 12:00:34 2015] Calling judge...
+[Wed Dec 16 20:35:08 2015] ==========interface start==========
+[Wed Dec 16 20:35:08 2015] Receiving information from dispatcher...
+[Wed Dec 16 20:35:08 2015] Recvive information end
+[Wed Dec 16 20:35:08 2015] Moving file to judge folder...
+[Wed Dec 16 20:35:08 2015] Moving source code...
+[Wed Dec 16 20:35:08 2015] Coping /var/nthuoj/source/1.c to /tmp/judgeFile/code.c
+[Wed Dec 16 20:35:08 2015] Copy success
+[Wed Dec 16 20:35:08 2015] Moving testcases...
+[Wed Dec 16 20:35:08 2015] Coping /var/nthuoj/testdata/1.in to /tmp/judgeFile/testdata/in1
+[Wed Dec 16 20:35:08 2015] Copy success
+[Wed Dec 16 20:35:08 2015] Coping /var/nthuoj/testdata/1.out to /tmp/judgeFile/testdata/out1
+[Wed Dec 16 20:35:08 2015] Copy success
+[Wed Dec 16 20:35:08 2015] Coping /var/nthuoj/testdata/2.in to /tmp/judgeFile/testdata/in2
+[Wed Dec 16 20:35:08 2015] Copy success
+[Wed Dec 16 20:35:08 2015] Coping /var/nthuoj/testdata/2.out to /tmp/judgeFile/testdata/out2
+[Wed Dec 16 20:35:08 2015] Copy success
+[Wed Dec 16 20:35:08 2015] Move files end
+[Wed Dec 16 20:35:08 2015] Calling judge...
+[Wed Dec 16 20:36:37 2015] ==========interface start==========
+[Wed Dec 16 20:36:38 2015] Receiving information from dispatcher...
+[Wed Dec 16 20:36:38 2015] Recvive information end
+[Wed Dec 16 20:36:38 2015] Moving file to judge folder...
+[Wed Dec 16 20:36:38 2015] Moving source code...
+[Wed Dec 16 20:36:38 2015] Coping /var/nthuoj/source/1.c to /tmp/judgeFile/code.c
+[Wed Dec 16 20:36:38 2015] Copy success
+[Wed Dec 16 20:36:38 2015] Moving testcases...
+[Wed Dec 16 20:36:38 2015] Coping /var/nthuoj/testdata/1.in to /tmp/judgeFile/testdata/in1
+[Wed Dec 16 20:36:38 2015] Copy success
+[Wed Dec 16 20:36:38 2015] Coping /var/nthuoj/testdata/1.out to /tmp/judgeFile/testdata/out1
+[Wed Dec 16 20:36:38 2015] Copy success
+[Wed Dec 16 20:36:38 2015] Coping /var/nthuoj/testdata/2.in to /tmp/judgeFile/testdata/in2
+[Wed Dec 16 20:36:38 2015] Copy success
+[Wed Dec 16 20:36:38 2015] Coping /var/nthuoj/testdata/2.out to /tmp/judgeFile/testdata/out2
+[Wed Dec 16 20:36:38 2015] Copy success
+[Wed Dec 16 20:36:38 2015] Move files end
+[Wed Dec 16 20:36:38 2015] Calling judge...
